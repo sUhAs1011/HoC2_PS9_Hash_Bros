@@ -7,6 +7,11 @@ Our solution creates AI tools that extract actionable insights from Electronic H
 
 We have used IPFS(Inter-planetery file system) which is a decentralized file system where the prescriptions are uploaded and stored,once it is uploaded a CID is generated which is Content Identifier which is a unique key for each prescription which is store in private blockchain, which was multi-chain block chain..
 
+- **Frontend:**
+   ```shell
+   streamlit run frontend.py
+   ```
+
 - **Backend:**
    ```shell
    python flask4.py
